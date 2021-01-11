@@ -1,0 +1,23 @@
+{
+    "name": "QuantoSurveys",
+    "short_name": "Survey | Quanto",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "QuantoSurverys is a surveying app for you. If you need to get info from your users, use QuantoSurveys to get that info",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
