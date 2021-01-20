@@ -60444,7 +60444,7 @@ Y.tF.prototype={
 aq:function(){return new Y.IF(C.k)}}
 Y.IF.prototype={
 F:function(a,b){var s=null
-return M.mL(s,T.dw(T.eO(H.d([L.au("Welcome to Quanto, user! I have been waiting you",s,s,s,s,s),L.au("Where will you go now?",s,s,s,s,s),new Z.id(new Y.a3N(b),"Log In",s),new Z.id(new Y.a3O(b),"Sign Up for Quanto",s)],t.Z),C.ac,C.aJ,C.h0),s,s))}}
+return M.mL(s,T.dw(T.eO(H.d([L.au("Welcome to Quanto!",s,s,s,s,s),new Z.id(new Y.a3N(b),"Log In",s),new Z.id(new Y.a3O(b),"Sign Up for Quanto",s)],t.Z),C.ac,C.aJ,C.h0),s,s))}}
 Y.a3N.prototype={
 $0:function(){K.Dm(this.a,"/log-in",t._)},
 $S:2}
