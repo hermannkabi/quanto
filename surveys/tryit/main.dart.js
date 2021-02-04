@@ -71627,7 +71627,7 @@ a5:function(){return new Y.NP(C.k)}}
 Y.NP.prototype={
 am:function(){this.aD()
 $.aY.z$.push(new Y.acM(this))},
-E:function(a,b){var s=null,r=T.bo(T.be(H.b([new R.f5(s),L.U("Welcome to Quanto!",s,s,s,s,s,s),new Z.cP(new Y.acK(b),"Log In",C.aw,s),new Z.cP(new Y.acL(b),"Sign Up for Quanto",C.aw,s),new R.f5(s),L.U("This is version 4.2.0.1 of QuantoSurveys",s,s,s,s,s,s)],t.t),C.p,C.o,C.ap),s,s)
+E:function(a,b){var s=null,r=T.bo(T.be(H.b([new R.f5(s),L.U("Welcome to Quanto!",s,s,s,s,s,s),new Z.cP(new Y.acK(b),"Log In",C.aw,s),new Z.cP(new Y.acL(b),"Sign Up for Quanto",C.aw,s),new R.f5(s),L.U("This is version 4.2.0.2 of QuantoSurveys",s,s,s,s,s,s)],t.t),C.p,C.o,C.ap),s,s)
 return M.ik(s,r)}}
 Y.acM.prototype={
 $1:function(a){var s,r=this.a
