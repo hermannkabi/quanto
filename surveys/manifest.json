@@ -1,11 +1,11 @@
 {
-    "name": "QuantoSurveys",
-    "short_name": "Survey | Quanto",
+    "name": "QuantoSurveys - Create and answer surveys online",
+    "short_name": "QuantoSurveys",
     "start_url": "./",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "QuantoSurverys is a surveying app for you. If you need to get info from your users, use QuantoSurveys to get that info",
+    "description": "QuantoSurveys - A good Surveying App",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
